@@ -1,0 +1,6 @@
+my approach in Grab-cut Image Segmentation represents a significant improvement over existing image segmentation methods and has potential to be applied in a wide range of computer vision applications such as medical imaging, autonomous driving and robotics. 
+The goal of the image segmentation is to simplify and change the representation of an image into something that is more meaningful and easier to analyze. 
+According to a human perception image segmentation is the process of dividing the image into non- overlapping meaningful regions.
+The main objective of image segmentation is to divide an image into many sections for the further analysis, so we can get the only necessary or a segment of information. The partitioning the image will be based on some image features like color, texture, pixel intensity value etc. 
+There are several techniques of image segmentation like thresholding method, region based method, edge based method, clustering methods and the watershed method. In this paper we will see some segmentation methods and what are the necessary things we should know while doing segmentations. 
+We will also check some papers and analyze which method is best for image segmentation. Keywords: perception, segmentation, texture, edge, clustering.
